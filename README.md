@@ -5,7 +5,7 @@ _Official game rules_
 Assassins is a game where a number of people each receive a "target" who they must "assassinate" by some means. Everyone knows their target but not who is targeting them. There are many variations of the game, so you may be familiar with different rules.
 
 ## Current game
-At 9pm Nov 29th game 0.1 was set up, with plans to start play at 7am the following morning. A few hours after, it came to light that human error caused flaws in the popcicle stick distribution. For this reason, targets were reassigned for game 0.2. 0.2 sticks have an orange mark on the end to distinguish them. They will be handed out by Nabil at Make School on Nov 30th (Wed (today)). Play for game 0.2 will begin at 6pm.
+At 9pm Nov 29th game 0.1 was set up, with plans to start play at 7am the following morning. A few hours after, it came to light that human error caused flaws in the popcicle stick distribution. For this reason, targets were reassigned for game 0.2. 0.2 sticks have an orange mark on the end to distinguish them. They will be handed out by Nabil at Make School on Nov 30th (Wed (today)). Play for game 0.2 will begin at 7pm (not 6 as previously stated).
 
 ## Setup
 Right now, we use a python script to randomly generate the targets. The program ensures that there is precisely one loop, rather then several small closed loops. Nabil (who is not playing) will distribute popsicle sticks with the targets name on them to the correct people.
