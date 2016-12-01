@@ -33,7 +33,7 @@ Remember that anywhere unspecified is a killzone. This includes the common room,
 The game is over when someone assassinates someone else who's target is them. This means that there is only one person left in the game, and thus they are the winner. You can think of the targets as a loop, with each assassination as the shrinking of the loop. The only way you could possibly kill someone who's target is you is if you are the last person in the loop.
 
 ## Known Information
-The only officially known information is the complete list of all players initially in the game. This should be put in this Github repo. Other information (such as who has been killed and by whom) is not necessarily known by anyone except those involved. If there are any problems, Nabil will ask around and figure out whats up. You must be honest with Nabil but can lie to anyone else if you wish.
+The only officially known information is the complete list of all players initially in the game. Is now complete and in the Github repo. Other information (such as who has been killed and by whom) is not necessarily known by anyone except those involved. If there are any problems, Nabil will ask around and figure out whats up. You must be honest with Nabil but can lie to anyone else if you wish.
 
 ## Conflict Resolution and Rule Suggestions
 Talk to Nabil, as he is not playing. He may consult with William or others if they are not involved.
@@ -43,11 +43,5 @@ These are things that should either be obvious or unimportant, but I want to hav
 * When an assassination takes place, the popcicle stick must be in contact with the assassins skin and must touch the targets skin, clothes or hair.
 * A target can not be assassinated if they have at least one foot in a safe zone. The location of the assassin does not matter.
 * This version of the game is an unstable untested beta. We reserve the rights to change the rules at any time.
+* You may not kill your target with a popcicle stick that is taped, glued, rubber banded or otherwise affixed to your person
 
-## Players:
-
- players = ["Luca", "Jose", "Michael" , "Jay", "AlexR", "Marquavious", "William", "AlexDejeu", "Ross", "Julia", "Madhur", "NickSwift", "Corey","Brian", "Casey", "Nemo", "AlexPena", "Lorenzo", "Fiona"]
-    players.append("Kenny")
-    players.append("Jimmy")
-    players.append("Bob")
-    players.append("Jake")
