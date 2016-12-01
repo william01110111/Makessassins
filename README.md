@@ -21,7 +21,8 @@ A safezone is somewhere where assassinations are forbidden, in contrast to a kil
 * The target's own room (safezone)
 * Bathrooms (safezone)
 * The kitchen at 851 (safezone)
-* Everywhere in Make School (safezone) __except__:
+* Standup anywhere at Make School (safezone) (startes when you enter circel, ends five seconds after final clap)
+* Everywhere in Make School not during standup (safezone) __except__:
 	* The enterence lobby (killzone)
 	* The area under the kitchen area (killzone)
 	* The kitchen area (killzone) __except__:
