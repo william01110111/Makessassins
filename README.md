@@ -43,3 +43,8 @@ These are things that should either be obvious or unimportant, but I want to hav
 * When an assassination takes place, the popcicle stick must be in contact with the assassins skin and must touch the targets skin, clothes or hair.
 * A target can not be assassinated if they have at least one foot in a safe zone. The location of the assassin does not matter.
 * This version of the game is an unstable untested beta. We reserve the rights to change the rules at any time.
+
+## Participants
+
+    players = ["Luca", "Jose", "Michael" , "Jay", "AlexR", "Marquavious", "William", "AlexDejeu", "Ross", "Julia", "Madhur", "NickSwift", "Corey","Brian", "Casey", "Nemo", "AlexPena", "Lorenzo", "Fiona"]
+
